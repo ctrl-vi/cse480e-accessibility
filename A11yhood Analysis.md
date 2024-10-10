@@ -28,7 +28,7 @@ Examples given by Mingus also illustrate the intersectional nature of forced int
 
 **Collective access** is the practice of ensuring that all parties can participate in community with one another. This involves going beyond the norms of the able-bodied society we live in to maximize access to others, acknowledging that people function differently in the world we live in. Most importantly, We can ask that our needs be met without compromising our integrity as people.
 
-#### Analysis (200 words)
+#### Analysis
 
 Forced intimacy violates the premise of collective access and undermines the ability to interact in a shared world. Specifically, it pressures individuals to conform to the norms of the current, inaccessible, able-bodied society, which often overlooks the diverse needs and experiences of marginalized groups. Mingus shares that understanding forced intimacy was “one of the many ways I learned that consent does not exist for my disabled asian girl body-mind.” The inability to feel secure in one’s autonomy and ability to consent illustrates this pigeonholding of one’s personal self to fit within the parameters of society. This not only limits their ability to express their authentic selves but also perpetuates a cycle of alienation and prevents folks from grounding in their own feelings.
 
@@ -40,7 +40,7 @@ The expectation of forced intimacy significantly hampers disabled individuals fr
 
 **Anti-capitalist politics** critiques the capitalist superstructure for perpetuating inequalities that marginalize people with disabilities. It emphasizes the need for systemic change to prioritize collective well-being over profit-driven motives. This means resisting the current expectations for productivity and understanding that one’s worth is independent of what/how much we produce.
 
-#### Analysis (200 words)
+#### Analysis
 
 Forced intimacy does not address anti-capitalist politics and instead perpetuates the superstructure of capitalism to further cause the broad oppression of disabled folks. Mingus argues that forced intimacy demands constant emotional labor from disabled people, forcing them to share personal details about their lives to secure basic needs and support. This expectation aligns with capitalist notions that individuals should constantly justify their existence through productivity and engagement, making it particularly burdensome for those who may not have the capacity or desire to engage in such labor.
 
@@ -52,7 +52,7 @@ Furthermore, the societal pressure to engage in forced intimacy can create a sen
 
 **Sustainability** refers to the ability to feel security in the speed at which those around us and we as individuals are moving through society. Instead of aligning to societal pressure and urgency, we should lean into the feelings within our bodies and personal experiences to guide our societal actions to slowly but surely pursue justice.
 
-#### Analysis (200 words)
+#### Analysis
 
 Forced intimacy is far from sustainable, especially for disabled people. Mingus clarifies that forced intimacy imparts an expectation of large, continuous amounts of emotional labor; it holds folks accountable to always be engaged in conversations so that people won't be mad. For Mingus, this means that “I am always expected to do the work of opening myself up for others’ benefit, education, curiosity or benevolent oppression.” The pressure to share personal stories and experiences for others’ benefit is not only exhausting but also damaging to her well-being. This expectation means that disabled individuals often feel compelled to engage in constant self-disclosure, opening themselves up to others' inquiries, education, or even well-meaning but intrusive curiosity. Such a requirement can lead to emotional burnout, further exacerbating the challenges disabled individuals face in navigating their lives.
 

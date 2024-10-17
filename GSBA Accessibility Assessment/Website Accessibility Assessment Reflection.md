@@ -12,31 +12,41 @@ By Violet Monserate
 
 ### Problems you could only identify with manual testing using an accessibility technology?
 
-
+One of the issues I only caught while doing manual testing were when images had null/empty alt text. These are flagged as "positive" by the automatic technology, and only when I went through it and had it read the image aloud to me did I realize that I could not understand where it was taking me.
 
 ## Accessibility Technology Familiarity Competency
+
+### Magnifier
+
+#### What is it?
+
+The magnifier is an access technology that has found its way into many piece of technology, including Windows 11 and 10 (according to this [Webpage on Microsoft's Support Page](https://support.microsoft.com/en-us/windows/use-magnifier-to-make-things-on-the-screen-easier-to-see-414948ba-8b1c-d3bd-8615-0e5e32204198)), as well as the 
+
+#### What disabilities does it support?
+
+The manifier supports those with Visual Impairment, such as John Klatt [in this Youtube video from the University of Wisconsin](https://www.youtube.com/watch?v=4ZRVDgeMpXc). John Klatt has a form of muscular degeneration, and shows how different types of magnification work better/are less disorienting than others. 
+
+#### What are its strengths and/or weaknesses?
+
+There is a wide variety of magnification softwares, including the ones demonstrated in the aforementioned Youtube video. This means that 
+
+#### What happened when you tried it?
+
+I was very disoriented while using the screen magnification. It is hard to not know the broader context of the webpage, and I kept getting lost while navigating. It is extremely useful to have the entire webpage in my peripheral, and I missed having that while doing my own testing.
 
 ### Screen Reader
 
 #### What is it?
 
-#### What disabilities does it support?
-
-#### What are its strengths and/or weaknesses?
-
-#### What happened when you tried it?
-
-### Switch Control
-
-#### What is it?
-
-According to [Apple's website about Switch Control on Mac](https://support.apple.com/guide/mac-help/use-switch-control-mh43607/mac), switch control is a technology that allows a single button or joystick to be used and control the entirety of a Mac [1]. It is also avaiable on iPhone, according to [Apple's website about Switch Control on iPhone](https://support.apple.com/guide/iphone/intro-to-switch-control-iphc9d32b862/ios). 
+According to [this website by the American Foundation for the Blind about Screen Readers](https://www.afb.org/blindness-and-low-vision/using-technology/assistive-technology-products/screen-readers), screen readers are (broadly) a form of Access Technology that converts on-screen content (including text, image, video) into speech or a braille display. Users send different keys combinations (commands) in order to instruct the Screen Reader to read out different sections or do different actions. They range in price and are avaiable on all forms of computers and phones.
 
 #### What disabilities does it support?
 
-Again from Apple's website, Switch Control is for anyone with limited mobility [1]. We can also see this in the 
+The website also demonstrates how 
 
 #### What are its strengths and/or weaknesses?
+
+According to [Joey G. on his personal blog](https://www.blindstreet.com/advantages-disadvantages-using-screen-reader-instead-braille/#google_vignette), screen readers 
 
 #### What happened when you tried it?
          

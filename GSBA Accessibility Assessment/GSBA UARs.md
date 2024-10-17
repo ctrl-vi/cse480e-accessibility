@@ -115,7 +115,7 @@ This is a persistent issue, as the skipped header level will still be there for 
 
 N/A
 
-## ID: AT-03: MISSING LANGUAGE
+## ID: AT-03
 
 ### Brief Description
 
@@ -138,11 +138,11 @@ which excludes the "lang" attribute.
 Guidelines violated: WCAG 2.1; 3.1.1 (Language of Page), 3.1.2 (Language of Parts). This is a major issue as it can disrupt the use of screen readers. 
 
 ### Severity
-#### Severity Rating: 3
+#### Severity Rating: 3/5
 
 #### Frequency
 
-This is an extremely common issue that will be faced by anyone using the webpage, as annotating the language ensures ANYONE using AT is getting information in the correct language. However, this webpage is the member login, thus whenever the user wants to log-in to edit or access their membership, they'll have to face this issue.
+This is an extremely common issue that will be faced by anyone using the member login, thus whenever the user wants to log-in to edit or access their membership, they'll have to face this issue.
 
 #### Impact
 
@@ -214,7 +214,7 @@ The following are all examples of null alt-text that were NOT caught by the Auto
 Guideline violated: 1.1.1: Non-text Content and 2.4.4: Link Purpose (In Context) and 1.4.8: Images of Text. While the 1.1.1 is primarily violated as these are important images that all have non-existent alt text, some of the headers are also links, which causes the links to lose any meaning. Most eggregiously is that some of the images are of text, which conveys meaning that is not otherwise present.
 
 ### Severity
-#### Severity Rating: 5
+#### Severity Rating: 5/5
 
 #### Frequency: High
 

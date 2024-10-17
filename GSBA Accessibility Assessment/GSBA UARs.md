@@ -86,11 +86,11 @@ Skipped heading level (typically skipping h3).
 
 ### Evidence
 
-![Screenshot of WAVE's structure for the website. The h2 states "Land Acknolwedgement" and then the h4 is instead a paragraph stating "GSBA acknowledges that our organizational identity is rooted in this place we call home, which stands upon the ancestral lands of the Coast Salish peoples, many of whom continue to thrive here. We commit to recognizing and celebrating the diversity and intersectionality of two-spirit and other gender-diverse identities expressed by Native & Indigenous businesses, scholars, and leaders within our community and beyond. We honor these voices as essential to our mission of achieving equity for all"]()
+![Screenshot of WAVE's structure for the website. The h2 states "Land Acknolwedgement" and then the h4 is instead a paragraph stating "GSBA acknowledges that our organizational identity is rooted in this place we call home, which stands upon the ancestral lands of the Coast Salish peoples, many of whom continue to thrive here. We commit to recognizing and celebrating the diversity and intersectionality of two-spirit and other gender-diverse identities expressed by Native & Indigenous businesses, scholars, and leaders within our community and beyond. We honor these voices as essential to our mission of achieving equity for all"](https://github.com/ctrl-vi/cse480e-accessibility/blob/main/GSBA%20Accessibility%20Assessment/Images/AT-02-Skip-H3-Paragraph.png?raw=true)
 
-![Screenshot of WAVE's structure for the website. The h2 states "Are you ready for buisness?" and then an h4 stating "Washington is home to some of the biggest names in the business world."]()
+![Screenshot of WAVE's structure for the website. The h2 states "Are you ready for buisness?" and then an h4 stating "Washington is home to some of the biggest names in the business world."](https://github.com/ctrl-vi/cse480e-accessibility/blob/main/GSBA%20Accessibility%20Assessment/Images/AT-02-Skip-H3.png?raw=true)
 
-![Screenshot of WAVE's structure for the footer. After the footer, there are 4 h3's that state "GSBA MEMBERSHIP," "SIGN UP TO STATE IN TOUCH!" and "FOLLOW US"]()
+![Screenshot of WAVE's structure for the footer. After the footer, there are 4 h3's that state "GSBA MEMBERSHIP," "SIGN UP TO STATE IN TOUCH!" and "FOLLOW US"](https://github.com/ctrl-vi/cse480e-accessibility/blob/main/GSBA%20Accessibility%20Assessment/Images/AT-02-Structure.png?raw=true)
 
 ### Explanation
 
@@ -164,9 +164,9 @@ Overlapping text and navbar whenever resizing (at specific sizes)
 
 ### Evidence
 
-![Screenshot of the navbar and header of the GSBA website. There is the GSBA logo in the top left. The navbar is offset from being at the top, and covers part of the header banner. The navbar contains "Search Directory," "Donate," "About GSBA," "Membership," "Directory," "Scholarship," "Ready for Buisness," "Advocacy," and "Events." The header banner states "Active Member Directory"]()
+![Screenshot of the navbar and header of the GSBA website. There is the GSBA logo in the top left. The navbar is offset from being at the top, and covers part of the header banner. The navbar contains "Search Directory," "Donate," "About GSBA," "Membership," "Directory," "Scholarship," "Ready for Buisness," "Advocacy," and "Events." The header banner states "Active Member Directory"](https://github.com/ctrl-vi/cse480e-accessibility/blob/main/GSBA%20Accessibility%20Assessment/Images/MAG-00-Navbar.png?raw=true)
 
-![Screenshot of the GSBA website titled "Transgender and Non-Binary Affirming Employer Toolkit."]()
+![Screenshot of the GSBA website titled "Transgender and Non-Binary Affirming Employer Toolkit."](https://github.com/ctrl-vi/cse480e-accessibility/blob/main/GSBA%20Accessibility%20Assessment/Images/MAG-00-Overlap.png?raw=true)
 
 ### Explanation
 
@@ -203,15 +203,15 @@ Null alt-text. For example,
 
 The following are all examples of null alt-text that were NOT caught by the Automatic Tool:
 
-![Screenshot of a header image on the GSBA website featuring the text "Equalux: Nov 9. Presented by KIA: Car Pros." The "Equalux" text is in a silver glitter, and the other text is in a combination of white and yellow/gold.]()
+![Screenshot of a header image on the GSBA website featuring the text "Equalux: Nov 9. Presented by KIA: Car Pros." The "Equalux" text is in a silver glitter, and the other text is in a combination of white and yellow/gold.](https://github.com/ctrl-vi/cse480e-accessibility/blob/main/GSBA%20Accessibility%20Assessment/Images/SR-00-Equalux.png?raw=true)
 
-![Screenshot of a header image on the GSBA website featuring the text "GSBA's Open Letter to the City of Seattle regarding total..." in white text on a green background]()
+![Screenshot of a header image on the GSBA website featuring the text "GSBA's Open Letter to the City of Seattle regarding total..." in white text on a green background](https://github.com/ctrl-vi/cse480e-accessibility/blob/main/GSBA%20Accessibility%20Assessment/Images/SR-00-ImageWText.png?raw=true)
 
-![Screenshot of a portrait on the GSBA website. The portrait features an individual smiling with short grey hair, gold earrings, a blue button, up, a green coat, silver rings on their fingers, and holding glasses.]()
+![Screenshot of a portrait on the GSBA website. The portrait features an individual smiling with short grey hair, gold earrings, a blue button, up, a green coat, silver rings on their fingers, and holding glasses.](https://github.com/ctrl-vi/cse480e-accessibility/blob/main/GSBA%20Accessibility%20Assessment/Images/SR-00-Portrait.png?raw=true)
 
 ### Explanation
 
-Guideline violated: 1.1.1: Non-text Content and 2.4.4: Link Purpose (In Context) and 1.4.8: Images of Text. While the 1.1.1 is primarily violated as these are important images that all have non-existent alt text, some of the headers are also links, which causes the links to lose any meaning. Most eggregiously is that some of the images are of text, which conveys meaning.
+Guideline violated: 1.1.1: Non-text Content and 2.4.4: Link Purpose (In Context) and 1.4.8: Images of Text. While the 1.1.1 is primarily violated as these are important images that all have non-existent alt text, some of the headers are also links, which causes the links to lose any meaning. Most eggregiously is that some of the images are of text, which conveys meaning that is not otherwise present.
 
 ### Severity
 #### Severity Rating: 5

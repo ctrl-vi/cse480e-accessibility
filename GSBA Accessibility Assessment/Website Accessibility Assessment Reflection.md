@@ -20,7 +20,7 @@ One of the issues I only caught while doing manual testing were when images had 
 
 #### What is it?
 
-The magnifier is an access technology that has found its way into many piece of technology, including Windows 11 and 10 (according to this [Webpage on Microsoft's Support Page](https://support.microsoft.com/en-us/windows/use-magnifier-to-make-things-on-the-screen-easier-to-see-414948ba-8b1c-d3bd-8615-0e5e32204198)), as well as the 
+The magnifier is an access technology that has found its way into many piece of technology, including Windows 11 and 10 (according to this [Webpage on Microsoft's Support Page](https://support.microsoft.com/en-us/windows/use-magnifier-to-make-things-on-the-screen-easier-to-see-414948ba-8b1c-d3bd-8615-0e5e32204198)), and in the specific application I used for magnification-Firefox-as described in [Mozilla's support page about font size and zoom](https://support.mozilla.org/en-US/kb/font-size-and-zoom-increase-size-of-web-pages).
 
 #### What disabilities does it support?
 
@@ -28,11 +28,11 @@ The manifier supports those with Visual Impairment, such as John Klatt [in this 
 
 #### What are its strengths and/or weaknesses?
 
-There is a wide variety of magnification softwares, including the ones demonstrated in the aforementioned Youtube video. This means that 
+There is a wide variety of magnification softwares, including the ones demonstrated in the aforementioned Youtube video. This means that it is highly customizable to the situtation as well as the wants and needs of the disabled people utilizing magnifiers. I also like how the firefox zoom is built into the webpage, allowing VI folk to use the zoom on any computer, without additional software. One weakness is how context can get lost when very zoomed in.
 
 #### What happened when you tried it?
 
-I was very disoriented while using the screen magnification. It is hard to not know the broader context of the webpage, and I kept getting lost while navigating. It is extremely useful to have the entire webpage in my peripheral, and I missed having that while doing my own testing.
+I was very disoriented while using the screen magnification. It is hard to not know the broader context of the webpage, and I kept getting lost while navigating. It is extremely useful to have the entire webpage in my peripheral, and I missed having that while doing my own testing. I also tried the MacOS magnifier, which was really nice and let me keep that peripheral vision.
 
 ### Screen Reader
 
@@ -42,13 +42,15 @@ According to [this website by the American Foundation for the Blind about Screen
 
 #### What disabilities does it support?
 
-The website also demonstrates how 
+The website also demonstrates how blind people are the ones who benefit from screen readers. Note that this also shows how Blind/VI AND deaf people can access computers (through the use of braille screens). However, since there is no reading, it can be useful for those with ADHD and Dyslexia, as described in this [article by Accessibility Checker](https://www.accessibilitychecker.org/blog/assistive-technology-for-dyslexia/).
 
 #### What are its strengths and/or weaknesses?
 
-According to [Joey G. on his personal blog](https://www.blindstreet.com/advantages-disadvantages-using-screen-reader-instead-braille/#google_vignette), screen readers 
+According to [Joey G. on his personal blog](https://www.blindstreet.com/advantages-disadvantages-using-screen-reader-instead-braille/#google_vignette), screen readers allow folks to access computers and functionality that they otherwise would not be able to (reading/writing emails, browsing the internet, communicate with instant messagers). Joey notes, however, that it can be hard to know the "correct spelling of a certain word especially when it’s not that common like medical terms," and the artifical voices can be jarring and hard to use.
 
 #### What happened when you tried it?
+
+The learning curve for a screen reader is STEEP, and I still input the wrong thing while using it. I also struggle with remembering the inputs. At the same, time, it is far slower for me to use than a pointer since that it what I've grown up using. With more practice, I think I'll be able to proficiently use this AT when testing my futher apps/websites.
          
 ## Automated Accessibility Checking Competency
 
@@ -60,11 +62,11 @@ The automated tool I used was [WAVE by WebAIM](https://wave.webaim.org/). This i
 
 My favorite part of this tool was how neat and easy-to-read the summary was. The UI added to the experience, letting me know *exactly* where the errors were (as well as categories to see what areas of accessibility needed more attention). When clicking on an error, it would direct you to the location in the website, as well as. Contrast being its own section was a good choice, as it also allows for easy analysis of what could potentially be a better color choice. 
 
-I dislike how the sidebar cannot hide. Sometimes I wanted to have more real-estate to view the code. It would have been nice to have a tab to the left where I could pull up DOM . 
+I dislike how the sidebar cannot hide. Sometimes I wanted to have more real-estate to view the code. It would have been nice to have a tab to the left where I could pull up the HTML. I also wish that there was a way to go to certain things. For example, there was an empty link but every time I clicked on it, it did not navigate to where the empty link was. 
 
 ### How did you use it to check POUR?
 
-Thankfully, WAVE checks for WCAG compliance, and WCAG is based on the principles of POUR. The different errors cite which standards and guidelines of WCAG may be violated. While this is automatic, I also made sure that the citations were correct, and interpretted the output for myself, ensuring the given error matches the actual output in the browser.
+Thankfully, WAVE checks for WCAG compliance, and WCAG is based on the principles of POUR. The different errors cite which standards and guidelines of WCAG may be violated. While this is automatic, I also made sure that the citations were correct, and interpretted the output for myself, ensuring the given error matches the actual output in the browser. Overall, it was a good tool to find some initial violations, but failed at picking up on more nuanced issues.
     
 ## Accessibility Rules Competency
 
@@ -75,6 +77,8 @@ I accessed the GSBA (Greater Seattle Business Association). The tasks to be anal
 1. Donate money to the GSBA (including becoming a member, providing a scholarship)
 2. RSVP/get details for events advertised on the GSBA website
 3. Learn about how to get my buisness LGBTBE certified/how to do accessibility training
+
+The [UARs that I wrote are in this webpage](https://github.com/ctrl-vi/cse480e-accessibility/blob/471a0f58a21d478d9e9d9025eb8680265dc80284/GSBA%20Accessibility%20Assessment/Website%20Accessibility%20Assessment%20Reflection.md).
 
 ## Conclusion
 

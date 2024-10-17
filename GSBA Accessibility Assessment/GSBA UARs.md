@@ -35,7 +35,7 @@ Once the issue is fixed (or maybe they have the image described for them) then t
 
 ### Relationships to other problems reported (if relevant)
 
-This is related to the null alt text that was seen through the screen reader. They both involve images being unusable for blind/VI folk using the GSBA website.
+This is related to the null alt text that was seen through the screen reader (SR-00). They both involve images being unusable for blind/VI folk using the GSBA website.
 
 ## ID: AT-01 
 
@@ -76,7 +76,7 @@ This can't just be ignored after being fixed once, as it crops up in many sectio
 
 ### Relationships to other problems reported (if relevant)
 
-Since some images that contain text are hard to see, some users may want to use the alt text, which is then non-existent :(  
+Since some images that contain text are hard to see, some users may want to use the alt text, which is then non-existent (as seen in AT-00 and SR-00) :(  
 
 ## ID: AT-02
 
@@ -230,4 +230,4 @@ There is no real fix from the end-user's perspective. This will keep happening (
 
 ### Relationships to other problems reported (if relevant)
 
-This is related to the issue of skipped headers (as perhaps some of the skipped headers are contained within the images) as well as the examples of MISSING alt text.
+This is related to issue ST-02 of skipped headers (as perhaps some of the skipped headers are contained within the images) as well as the examples of MISSING alt text (AT-00).

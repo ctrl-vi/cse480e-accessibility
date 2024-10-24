@@ -62,10 +62,8 @@ The largest fix was in the website header. I made sure that the links inside of 
   
 ## Conclusion (What Did I Learn?)
 
-Above all, I practiced using accessibility technology to a further extent, now able to use a screen reader to comfortably navigate around a computer (even without a screen). 
-
-I also learned how to brainstorm fixes to these issues. I have very minimal experience with user-facing systems (most of my prior programming experience is with systems programming and back-end broadly). It was nice to return to some HTML and CSS. I also noticed how there were gaps in the learning we had in CIC and I'm glad to pick up new skills to actually apply the principles I'm learning in this Accessibility class!
+Above all, I practiced using accessibility technology to a further extent, now able to use a screen reader to comfortably navigate around a computer (even without a screen). I also learned how to brainstorm fixes to these issues. I have very minimal experience with user-facing systems (most of my prior programming experience is with systems programming and back-end broadly). It was nice to return to some HTML and CSS. I also noticed how there were gaps in the learning we had in CIC and I'm glad to pick up new skills to actually apply the principles I'm learning in this Accessibility class! Now, I feel like I can sense where a website has issues, and then really pinpoint the problem to a certain solution. 
 
 ## Appendix: UARS
 
-The [UARs that I wrote are in this webpage](lsdkfjlsdkjflksdj).
+The [UARs that I wrote are in this webpage](https://github.com/ctrl-vi/cse480e-accessibility/blob/67486d483e506eeb9bb54f91495243fbfbb955a4/Accessibility%20Implementation/Protbot%20UARs.md).

@@ -58,7 +58,7 @@ The problems were found in the percievability of text, the opperability of heade
 
 ## Summary of Solutions
 
-The largest fix was in the website header. I made sure that the links inside of the header had letter-wrapping, and thus no matter how zoomed in nor how wide the screen was, the text in its entirety would be readable. Similarly, I made sure the heading skip was removed, and instead I utilized an `<hgroup>` to pair the text with the header. I also switched the background to a flat color that is dark enough to contrast the foreground. To solve the issue of the split headers, I just used 1 color (which coincidentally helped improve the percievability of the header and removed the use of color for meaning).
+The largest fix was in the website header. I made sure that the links inside of the header had letter-wrapping and were inside a flexbox, and thus no matter how zoomed in nor how wide the screen was, the text in its entirety would be readable and on screen. Similarly, I made sure the heading skip was removed, and instead I utilized an `<hgroup>` to pair the text with the header. I also switched the background to a flat color that is dark enough to contrast the foreground. To solve the issue of the split headers, I just used 1 color (which coincidentally helped improve the percievability of the header and removed the use of color for meaning).
   
 ## Conclusion (What Did I Learn?)
 

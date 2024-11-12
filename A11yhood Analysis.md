@@ -14,10 +14,20 @@ Mingus concludes by stating that “though I have written here about forced inti
 
 ## Positive Disability Principles Analysis
 
-Forced intimacy is inherently ableist. It expects disabled people to do all of the emotional labor to get what they need. This expectation drains disabled people and places the duty entirely on the disabled rather than the collective of human society. This expectation forces disabled folk into a position where they must constantly justify their existence and needs rather than simply receiving the support they ask for. This is why it also is not accessible, as forced intimacy generates a dynamic where disabled people must share mechanically, as a form of "logistical" issue rather than the foundation of a relationship.
+### Ableism
+Forced intimacy is inherently ableist. It expects disabled people to do all of the emotional labor to get what they need. This expectation drains disabled people and places the duty entirely on the disabled rather than the collective of human society. This expectation forces disabled folk into a position where they must constantly justify their existence and needs rather than simply receiving the support they ask for. 
 
-These issues of inaccessibility and ableism stem from the lack of interest in being disability-led. In society, able-bodied perspectives and experiences are put above the needs and wants of disabled folk. "Forced intimacy" sidelines the voices of disabled individuals in conversations about access and support, adding far too many barriers to their access and removing them from their position to change things. Thus, forced intimacy illustrates how able-bodied folk are not put at the forefront.
+### Accessible
+The previous point also shows how forced intimacy is not accessible, as forced intimacy generates a dynamic where disabled people must share mechanically, as a form of "logistical" issue rather than the foundation of a relationship. This isn't a simple relational dynamic to navigate, especially if the motivation solely comes from disabled folks. 
 
+### Disability Led
+These issues of inaccessibility and ableism stem from the lack of interest in being disability-led. In society, able-bodied perspectives and experiences are put above the needs and wants of disabled folk. "Forced intimacy" sidelines the voices of disabled individuals in conversations about access and support, adding far too many barriers to their access and removing them from their position to change things. Thus, forced intimacy illustrates how able-bodied folk are put at the forefront.
+
+### Agency
+
+Agency is somewhat put in the hands of disabled folk through forced intimacy. The access needs that they suggest, or the needs and wants that they have are heard out and thus able to be implimented. However, this doesn't really give disabled folks *true* agency, instead relegating them to the whims of abled-bodied folks and society. Because of forced intimacy, people are actually *forced* to overshare about their life, losing control over their own narrative and select the people who get to hear about their history.  
+
+### Intersectionality
 Examples given by Mingus also illustrate the intersectional nature of forced intimacy. She highlights how forced intimacy interacts with other identities, including race, gender, and class. Mingus, as a transracial woman, for example, faces the emotional labor of discussing her experience as an adoptee. This intersectionality deepens the burden of forced intimacy, making it clear that the struggle for access and respect is multifaceted and requires a nuanced understanding of how various forms of oppression intersect.
 
 ## My Disability Justice Analysis
@@ -26,7 +36,7 @@ Examples given by Mingus also illustrate the intersectional nature of forced int
 
 #### Definition
 
-**Collective access** is the practice of ensuring that all parties can participate in community with one another. This involves going beyond the norms of the able-bodied society we live in to maximize access to others, acknowledging that people function differently in the world we live in. Most importantly, We can ask that our needs be met without compromising our integrity as people.
+**Collective access** is found in making sure that everyone, no matter the disabilities they have/identify with (or factors outside of disability, like race, gender, etc) can still be part of the disability community. This doesn't mean stripping everyone of their individual identities, but actually acting upon those and ensuring that with our differences, we can still be treated as people. This ideology clashes with our current, able-bodied society where the needs of able-bodied people are prioritized. From this, collective access seeks to look past the solutions proposed by current society, and ensure that no matter the disabiility, the unique needs of people are shared. 
 
 #### Analysis
 
@@ -42,7 +52,9 @@ The expectation of forced intimacy significantly hampers disabled individuals fr
 
 #### Analysis
 
-Forced intimacy does not address anti-capitalist politics and instead perpetuates the superstructure of capitalism to further cause the broad oppression of disabled folks. Mingus argues that forced intimacy demands constant emotional labor from disabled people, forcing them to share personal details about their lives to secure basic needs and support. This expectation aligns with capitalist notions that individuals should constantly justify their existence through productivity and engagement, making it particularly burdensome for those who may not have the capacity or desire to engage in such labor.
+For one, forced intimacy is a result of the current capitalist means of production, and a way to squeeze out more profit from the individual. Big corporations and companies are unyielding and will try to keep as much for themselves,leaving only a few crumbs for people to fight over, including disabled folks. Rather than ensuring that folks are able to collaborate and build each other up in providing for each other's needs, there is this pressure for everyone to compete with one another to collect the small crumbs that are available. And this is found in forced intimacy, as it is a way to eek out crumbs and beg the current society as a form of penance, all in exchange for the bare minimum.
+
+Thus, forced intimacy does not address anti-capitalist politics and instead perpetuates the superstructure of capitalism to further cause the broad oppression of disabled folks. Mingus argues that forced intimacy demands constant emotional labor from disabled people, forcing them to share personal details about their lives to secure basic needs and support. This expectation aligns with capitalist notions that individuals should constantly justify their existence through productivity and engagement, making it particularly burdensome for those who may not have the capacity or desire to engage in such labor.
 
 Furthermore, the societal pressure to engage in forced intimacy can create a sense of obligation that stifles authentic relationships. Mingus notes that she is often expected to open herself up for the benefit of others’ curiosity or education, which is rooted in the capitalist notion that folks should labor (in this case emotionally) regardless of their capacity, ability, or desire to do so. This dynamic perpetuates systemic inequalities, as disabled people are made to feel that their worth is contingent upon their ability to share their experiences for others’ benefit. An anti-capitalist framework implores us to resist these productivity-based expectations (such as the “need” to educate). 
 

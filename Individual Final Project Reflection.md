@@ -4,7 +4,7 @@ Written by Violet Monserate
 
 ## What was your overall role in the final project? 
 
-I helped make the home page for the website. I also helped make the slides for the checkpoints and the final poster and report. This included refining the language that was used in each of . My primary contribution on the report was plain language, disability justice, and positive dsiability sections. 
+I helped make the home page for the website. I also helped make the slides for the checkpoints, the final poster, and report. This included refining the language that was used in each of slides (to be a concise as possible). My primary contribution on the report was plain language, disability justice, and positive dsiability sections. 
 
 ## How do you feel about your contributions to the project?
 
